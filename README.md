@@ -1,2 +1,2 @@
 # ETHWMN
-Journey through the ETHWMN fellowship 
+Journey through the [ETHWMN](https://ethwmn.devfolio.co/) fellowship 
